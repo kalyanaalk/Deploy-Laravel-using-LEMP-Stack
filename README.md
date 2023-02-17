@@ -13,7 +13,7 @@ Penugasan 2 oprec camin AJK 2023
 - Copy public ip tersebut dan buka CMD
 
 # 2. Login CMD menggunakan SSH
-- Pada CMD ketikkan ssh <user>@<ip>
+- Pada CMD ketikkan ssh `<user>`@`<ip>`
 - Connection dengan VM sudah sukses terbentuk jika pada cmd dapat dilihat aktifitas login terakhir
 
 # 3. Konfigurasi Firewall Menggunakan ufw
